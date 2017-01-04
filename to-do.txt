@@ -1,0 +1,200 @@
+
+Praveenkumar, Muruganandha  (M.); Bhaskaran, Ranjith (R.); Srividhya, Subramanian (S.); Kaliaperumal, Gayathri (G.); V, Krishnasamy (V.);
+
+
+DEV Deploy : Srividhya, Subramanian (S.) <ssrivid5@ford.com>; Kaliaperumal, Gayathri (G.) <gkalaipe@ford.com>; Venkata sai prasad, Penuko  (P.) <pvenka31@ford.com>; Kanthala, Harish (H.C.) <hkanthal@ford.com>; B, Vivek (B.) <bvivek4@ford.com>; Madasamy, Senthil (S.) <smadasam@ford.com>; Harish, Aravind (A.) <aharish4@ford.com>; Khan, Majid (Y.) <mkhan160@ford.com> ;Praveenkumar, Muruganandha  (M.) <mprave10@ford.com>
+
+310	169	AAGA3 13,0
+311	169	AAGCL  8,0
+
+4+6
+
+
+100955,100956,100965,100966,100967
+
+ 100964, 100965, 100966, 100967, 100968, 100969, 100971, 100955, 100956, 100957
+ 100970=PDLItemBO:  Key [saKey], Value [128525];,
+ 100955=PDLItemBO:  Key [saKey], Value [128533];,
+ 100956=PDLItemBO:  Key [saKey], Value [128548];,
+ 100957=PDLItemBO:  Key [saKey], Value [128549];,
+ 100964=PDLItemBO:  Key [saKey], Value [128550];,
+ 100965=PDLItemBO:  Key [saKey], Value [128551];,
+ 100966=PDLItemBO:  Key [saKey], Value [128552];,
+ 100967=PDLItemBO:  Key [saKey], Value [128553];,
+ 100968=PDLItemBO:  Key [saKey], Value [128554];,
+ 100969=PDLItemBO:  Key [saKey], Value [128555];,
+ 100971=PDLItemBO:  Key [saKey], Value [128556];}
+
+100971,288=ManageAARTrackingBO:  Key [saKey], Value [31318];,
+ 100972,288=ManageAARTrackingBO:  Key [saKey], Value [31319];, 
+ 100950,288=ManageAARTrackingBO:  Key [saKey], Value [31325];, 
+ 100974,288=ManageAARTrackingBO:  Key [saKey], Value [31320];, 
+ 100952,288=ManageAARTrackingBO:  Key [saKey], Value [31321];, 
+ 100964,288=ManageAARTrackingBO:  Key [saKey], Value [31312];,
+ 100954,288=ManageAARTrackingBO:  Key [saKey], Value [31322];,
+ 100965,288=ManageAARTrackingBO:  Key [saKey], Value [31313];, 
+ 100955,288=ManageAARTrackingBO:  Key [saKey], Value [31309];,
+ 100966,288=ManageAARTrackingBO:  Key [saKey], Value [31314];,
+ 100956,288=ManageAARTrackingBO:  Key [saKey], Value [31310];,
+ 100967,288=ManageAARTrackingBO:  Key [saKey], Value [31315];,
+ 100979,288=ManageAARTrackingBO:  Key [saKey], Value [31323];,
+ 100957,288=ManageAARTrackingBO:  Key [saKey], Value [31311];,
+ 100968,288=ManageAARTrackingBO:  Key [saKey], Value [31316];,
+ 100947,288=ManageAARTrackingBO:  Key [saKey], Value [31324];,
+ 100969,288=ManageAARTrackingBO:  Key [saKey], Value [31317];}
+
+
+
+PDO-ES-AB24816
+316	172	AAGA3 24 (24) 1 (10) 
+317	172	AAGCL 17 (17) 1 (15)
+
+PDO-ES-AB24816 after code change
+316	172	AAGA3 24 28
+317	172	AAGCL 17 15
+
+PDO-ES-AB24816 after code change
+316	172	AAGA3 24 30
+317	172	AAGCL 17 15
+
+http://wwwdev.gcms.ford.com/GCMSUiWeb/viewAsemblyPlantsNameDetailPre.do?rgnMdlYrVehicleSaKey=458&pdlNumber=PDO-ES-AB24816&frommodelYear=2016.50&pdoModelYear=2015.00&vehicleCode=CD391N&engineeringVehicleLine=CC7&saKey=431&paramName=manageAARTracking&vehNamePlate=NA%20Fusion&isPreviousPDLDataExists=N&regionCode=FNA
+
+
+PDO-ES-AB26816
+316	172	AAGA3 8, 12
+317	172	AAGCL 6, 6
+
+PDO-ES-AB26816
+316	172	AAGA3 27, 27
+317	172	AAGCL 17, 15
+
+
+137459,137461,137462,137463,137464,137466,137467,137468,137470,137471,137472,137474,137475,137476,137477,137478,137479,137480,137481,137482,137483,137484,137485,137486
+
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137459
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137461
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137470
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137462
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137471
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137463
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137464
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137475
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137466
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137476
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137467
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137477
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137478
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137479
+[8/29/16 14:09:25:113 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137480
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137481
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137482
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137468
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137461
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137462
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137472
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137463
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137474
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137484
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137485
+[8/29/16 14:09:25:129 IST] 00000020 SystemOut     O pdlItemRO.getPdlItemCopiedFrom().getSaKey()=137486
+
+137472, 137474, 137475, 137476, 137477, 137478, 137479, 137481, 137482, 137484, 137485, 137486, 137459, 137464, 137466, 137467, 137468, 137470, 137471
+{137470,316=ManageAARTrackingBO:  Key [saKey], Value [31881];, 
+137471,316=ManageAARTrackingBO:  Key [saKey], Value [31882];, 
+137472,316=ManageAARTrackingBO:  Key [saKey], Value [31883];, 
+137474,316=ManageAARTrackingBO:  Key [saKey], Value [31884];, 
+137475,316=ManageAARTrackingBO:  Key [saKey], Value [31885];, 
+137476,316=ManageAARTrackingBO:  Key [saKey], Value [31886];, 
+137477,316=ManageAARTrackingBO:  Key [saKey], Value [31887];, 
+137478,316=ManageAARTrackingBO:  Key [saKey], Value [31888];, 
+137479,316=ManageAARTrackingBO:  Key [saKey], Value [31889];, 
+154920,316=ManageAARTrackingBO:  Key [saKey], Value [31914];, 
+154921,316=ManageAARTrackingBO:  Key [saKey], Value [31915];, 
+154889,316=ManageAARTrackingBO:  Key [saKey], Value [31913];, 
+154922,316=ManageAARTrackingBO:  Key [saKey], Value [31916];, 
+154923,316=ManageAARTrackingBO:  Key [saKey], Value [31917];, 
+154924,316=ManageAARTrackingBO:  Key [saKey], Value [31918];, 
+154925,316=ManageAARTrackingBO:  Key [saKey], Value [31919];, 
+154926,316=ManageAARTrackingBO:  Key [saKey], Value [31920];, 
+154927,316=ManageAARTrackingBO:  Key [saKey], Value [31921];, 
+137480,316=ManageAARTrackingBO:  Key [saKey], Value [31890];, 
+137481,316=ManageAARTrackingBO:  Key [saKey], Value [31891];, 
+137482,316=ManageAARTrackingBO:  Key [saKey], Value [31892];, 
+137483,316=ManageAARTrackingBO:  Key [saKey], Value [31893];, 
+137484,316=ManageAARTrackingBO:  Key [saKey], Value [31894];, 
+137485,316=ManageAARTrackingBO:  Key [saKey], Value [31895];, 
+137486,316=ManageAARTrackingBO:  Key [saKey], Value [31896];, 
+150175,316=ManageAARTrackingBO:  Key [saKey], Value [31898];, 
+137449,316=ManageAARTrackingBO:  Key [saKey], Value [31908];, 
+137450,316=ManageAARTrackingBO:  Key [saKey], Value [31909];, 
+137451,316=ManageAARTrackingBO:  Key [saKey], Value [31910];, 
+137452,316=ManageAARTrackingBO:  Key [saKey], Value [31911];, 
+137496,316=ManageAARTrackingBO:  Key [saKey], Value [31925];, 
+137453,316=ManageAARTrackingBO:  Key [saKey], Value [31912];, 
+137497,316=ManageAARTrackingBO:  Key [saKey], Value [31926];, 
+137454,316=ManageAARTrackingBO:  Key [saKey], Value [31922];, 
+137455,316=ManageAARTrackingBO:  Key [saKey], Value [31923];, 
+151590,316=ManageAARTrackingBO:  Key [saKey], Value [31906];, 
+137456,316=ManageAARTrackingBO:  Key [saKey], Value [31924];, 
+137459,316=ManageAARTrackingBO:  Key [saKey], Value [31873];, 
+150263,316=ManageAARTrackingBO:  Key [saKey], Value [31899];, 
+150264,316=ManageAARTrackingBO:  Key [saKey], Value [31900];, 
+150265,316=ManageAARTrackingBO:  Key [saKey], Value [31901];, 
+150266,316=ManageAARTrackingBO:  Key [saKey], Value [31902];, 
+150267,316=ManageAARTrackingBO:  Key [saKey], Value [31903];, 
+150268,316=ManageAARTrackingBO:  Key [saKey], Value [31904];, 
+152649,316=ManageAARTrackingBO:  Key [saKey], Value [31907];, 
+137460,316=ManageAARTrackingBO:  Key [saKey], Value [31897];, 
+137461,316=ManageAARTrackingBO:  Key [saKey], Value [31874];, 
+137462,316=ManageAARTrackingBO:  Key [saKey], Value [31875];, 
+137463,316=ManageAARTrackingBO:  Key [saKey], Value [31876];, 
+137464,316=ManageAARTrackingBO:  Key [saKey], Value [31877];, 
+137466,316=ManageAARTrackingBO:  Key [saKey], Value [31878];, 
+137467,316=ManageAARTrackingBO:  Key [saKey], Value [31879];, 
+137468,316=ManageAARTrackingBO:  Key [saKey], Value [31880];, 
+150556,316=ManageAARTrackingBO:  Key [saKey], Value [31905];}
+
+PDO-ES-AB26816
+316	172	AAGA3 30, 
+317	172	AAGCL 
+
+
+137460,150175,150263,150264,150265,150266,150267,150268,150556,151590,152649,137449,137450,137451,137452,137453,154889,154920,154921,154922,154923,154924,154925,154926,154927,137454,137455,137456,137496,137497
+
+137460
+137445
+137447
+137491
+137493
+137449
+137450
+137451
+137452
+137453
+137487
+137488
+137489
+137490
+137454
+137455
+137456
+137494
+137495
+137496
+137497
+137457
+137458
+
+
+
+
+
+
+
+
+
+
+
+
+
+
